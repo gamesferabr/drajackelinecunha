@@ -1,0 +1,25 @@
+FOTOS DO SITE
+=============
+
+BOA NOTÍCIA: as fotos do Instagram dela (@dra.jackelinecristinacunha) já foram
+baixadas e aplicadas automaticamente no site. Não precisa fazer nada. :)
+
+As fotos que o site usa (já prontas nesta pasta):
+- dra.jpg        -> foto principal no topo (ela sorrindo, jaleco rosa)
+- sobre.jpg      -> foto da seção "Sobre"
+- galeria-1.jpg  -> lentes em resina
+- galeria-2.jpg  -> clareamento (antes/depois)
+- galeria-3.jpg  -> atendimento
+- galeria-4.jpg  -> atendimento infantil
+- galeria-5.jpg  -> alinhadores
+- galeria-6.jpg  -> prótese
+
+QUER TROCAR ALGUMA FOTO?
+- Nesta pasta também estão TODAS as 12 fotos originais baixadas do Instagram,
+  com os nomes ig1.jpg até ig12.jpg (e a foto de perfil perfil.jpg).
+- Para trocar, é só copiar a que você preferir por cima do nome usado pelo site.
+  Ex.: quer que a foto do topo seja a ig9? Renomeie/copie ig9.jpg para dra.jpg.
+- Ou coloque uma foto nova do celular com o nome desejado (use .jpg).
+
+DICA: fotos com pelo menos 1000px de largura ficam mais nítidas. As do Instagram
+vêm em 640px (boas para tela, mas evite ampliar demais).
