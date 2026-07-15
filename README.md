@@ -23,7 +23,7 @@ Já está tudo configurado com os dados reais:
   no `index.html` (formato: 55 + DDD + número).
 - **CRO**: `162243` (no rodapé).
 - **Horário**: `Atendimento 24 horas · todos os dias`.
-- **Endereço**: `Rua Jácome Teles de Menezes, 951 — Ermelino Matarazzo, São Paulo`
+- **Endereço**: `Rua Jácome Teles de Menezes, 951 — Jardim Penha, São Paulo`
   (já com link para o Google Maps).
 - **Fotos**: veja `assets/img/LEIA-ME-FOTOS.txt`.
 
