@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drajackelinecunha.com.br/sitemap.xml
