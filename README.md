@@ -17,9 +17,9 @@ site_dentista_meuamor/
 
 Já está tudo configurado com os dados reais:
 
-- **WhatsApp**: `(11) 94018-0104` (usado no botão flutuante, no contato e no formulário).
+- **WhatsApp**: `(11) 96530-7272` (usado no botão flutuante, no contato e no formulário).
 - **Formulário**: ao enviar, abre direto o **WhatsApp** da doutora com a mensagem
-  preenchida (não usa e-mail). Para trocar o número, procure por `5511940180104`
+  preenchida (não usa e-mail). Para trocar o número, procure por `5511965307272`
   no `index.html` (formato: 55 + DDD + número).
 - **CRO**: `162243` (no rodapé).
 - **Horário**: `Atendimento 24 horas · todos os dias`.
